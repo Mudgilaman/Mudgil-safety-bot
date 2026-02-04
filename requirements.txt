@@ -1,0 +1,2 @@
+python-telegram-bot==21.5  # Ya latest version, docs se check kar lo
+geopy
